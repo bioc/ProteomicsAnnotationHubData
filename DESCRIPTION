@@ -1,7 +1,7 @@
 Package: ProteomicsAnnotationHubData
 Title: Transform public proteomics data resources into Bioconductor
     Data Structures
-Version: 1.25.1
+Version: 1.25.2
 Authors@R: c(person("Gatto", "Laurent", role=c("aut", "cre"),
                     email = "laurent.gatto@uclouvain.be"),
              person("Sonali", "Arora", role="aut"))
@@ -37,3 +37,4 @@ Collate:
     PAHD.R
     zzz.R
 RoxygenNote: 5.0.1
+PackageStatus: Deprecated
